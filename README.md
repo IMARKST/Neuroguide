@@ -93,3 +93,6 @@ pyinstaller NeuroGuide_revise.spec --noconfirm
 | pyvistaqt | PyVista Qt 适配 |
 | reportlab | PDF 报告生成 |
 | Pillow | 图像处理 |
+
+## dist分发
+github上传存在2GB限制，因此分发版请至百度网盘下载：https://pan.baidu.com/s/18lIFF9CW8fRowpbFHrxxXQ?pwd=y6kt
